@@ -1,8 +1,11 @@
-# React + Vite
+# Minecraft Clone in React!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/02/guia-todos-trucos-consejos-minecraft.jpg?tf=1200x"/>
 
-Currently, two official plugins are available:
+## Aclaracion
+Este proyecto aun no esta desplegado. Usar:
+npm install
+npm run dev
+Para poderlo probar.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Espero que les guste
