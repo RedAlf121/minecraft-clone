@@ -19,7 +19,7 @@ export const TextureSelector = () => {
         };
 
         const newTexture = Object.entries(options).find(
-            ([texture, isSelected]) => isSelected
+            ([, isSelected]) => isSelected
         );
 
         if (newTexture) {

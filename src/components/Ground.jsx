@@ -1,4 +1,5 @@
 /* eslint-disable react/no-unknown-property */
+/* eslint-disable react/prop-types */
 import { usePlane } from "@react-three/cannon";
 import { groundTexture } from "../images/texture";
 import { useStore } from "../hooks/useStorage";
