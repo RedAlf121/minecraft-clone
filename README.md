@@ -40,6 +40,4 @@ El despliegue se realizó con Vercel CLI:
 vercel deploy --prod --yes
 ```
 
-No hace falta un Dockerfile: Vercel construye el proyecto automáticamente con el preset de Vite y sirve los archivos estáticos desde su CDN.
-
 ### Espero que les guste
